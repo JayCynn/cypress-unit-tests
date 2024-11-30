@@ -1,0 +1,12 @@
+{
+ "envUrl": "http://localhost:3000/",
+ "username": "60122799255",
+ "password": "pass@word1",
+ "refullName": "John Doe",
+ "rephoneNumber": "60123006708",
+ "repassword": "pass@word1",
+ "rereferrer": "ref123",
+ "adminUsername": "admin-jc",
+ "adminPassword": "123456",
+ "adminEnvUrl": "http://localhost:3005"
+}
