@@ -82,6 +82,7 @@ cy.wait(5000); // Wait for the page to load
       .should('be.visible') // Ensure the image is visible
       .click(); // Perform the click
 
+      cy.wait(3000)
     // Step 3: Verify the presence of "APPROVED" status
     cy.xpath('(//tr)[2]//td[2]//div[contains(normalize-space(), "COMPLETED")]')
       .should('exist') // Ensure the element exists in the DOM

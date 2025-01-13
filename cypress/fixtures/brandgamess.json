@@ -1,0 +1,39 @@
+[
+    {
+        "brandName": "Ace333",
+      "brandId": "67330767564341c52731b63c",
+      "gameProfileId": "6763e868b60a5e9ce3c99b0d",
+      "gameIds": [
+        "6733848c564341c52731b65e"
+      ]
+    },
+    {
+      "brandName": "AGGaming",
+      "brandId": "67330785564341c52731b63d",
+      "gameProfileId": "6763ef72b60a5e9ce3cf3752",
+      "gameIds": [
+        "6733849e564341c52731b65f"
+      ]
+    },
+    {
+      "brandName": "Habenaro",
+      "brandId": "6389bd56eedfb36c7703459c",
+      "gameProfileId": "6763ee70b60a5e9ce3cdad4d",
+      "gameIds": [{
+          "_id": {
+            "$oid": "6756b30ade89597d76e6f32c"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6756b30ade89597d76e6f32e"
+          }
+        },
+        {
+          "_id": {
+            "$oid": "6756b30ade89597d76e6f32f"
+          }
+        }]
+    }
+  
+  ]

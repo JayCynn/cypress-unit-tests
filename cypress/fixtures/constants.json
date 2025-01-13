@@ -1,5 +1,5 @@
 {
- "envUrl": "http://localhost:3000/",
+ "envUrl": "https://stg.888sama.com/",
  "username": "60122799255",
  "password": "pass@word1",
  "refullName": "John Doe",
@@ -8,5 +8,5 @@
  "rereferrer": "ref123",
  "adminUsername": "admin-jc",
  "adminPassword": "123456",
- "adminEnvUrl": "http://localhost:3005"
+ "adminEnvUrl": "https://adm-stg.aligaming.co"
 }
